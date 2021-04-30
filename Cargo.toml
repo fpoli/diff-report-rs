@@ -1,12 +1,12 @@
 [package]
-name = "report-by-diff"
+name = "diff-report-rs"
 version = "0.1.0"
 authors = ["Federico Poli <federpoli@gmail.com>"]
 license = "MIT OR Apache-2.0"
 description = "A tool to only report cargo/clippy warnings related to the lines of a git diff"
 readme = "README.md"
-homepage = "https://github.com/fpoli/report-by-diff"
-repository = "https://github.com/fpoli/report-by-diff"
+homepage = "https://github.com/fpoli/diff-report-rs"
+repository = "https://github.com/fpoli/diff-report-rs"
 keywords = ["cli", "cargo", "clippy", "git",  "diagnostics"]
 categories = ["command-line-utilities"]
 edition = "2018"
