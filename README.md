@@ -1,5 +1,7 @@
 # Diff-report-rs
 
+> ⚠️ Moved to https://github.com/fpoli/cargo-diff-tools ⚠️
+
 Only report `cargo`/`clippy` warnings related to the lines of a `git diff`. Useful to hide `cargo` and `clippy` warnings that are likely not related to the changed introduced by a pull request.
 
 Inspired by [`Patryk27/clippy-dirty`](https://github.com/Patryk27/clippy-dirty).
